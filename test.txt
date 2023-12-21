@@ -1,2 +1,2 @@
 ans= input('ha')
-print ('ha ha'+ans)
+print ('ha'+ans)
